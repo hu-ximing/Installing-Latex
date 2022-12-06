@@ -1,6 +1,6 @@
 # 在 Windows 下安装 latex
 
-* 以下命令在 PowerShell 中执行 *
+_以下命令在 PowerShell 中执行_
 
 1. 下载 scoop
 
